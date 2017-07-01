@@ -1,0 +1,30 @@
+@charset "utf-8";
+.title {
+	text-align: center;
+}
+
+.demo_left {
+	width: 500px;
+	float: left;
+}
+.demo_right {
+	width: 500px;
+	float: right;
+}
+.demo_logo {
+	float: left;
+}
+.demo_h3 {
+	float: right;
+	margin-right: 340px;
+	margin-top: 0px;
+}
+.demo_p {
+	margin-left: 75px;
+	margin-top: -30px;
+
+}
+#demo_main {
+	margin: 0 auto;
+	width: 1200px;
+}
